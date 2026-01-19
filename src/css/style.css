@@ -1,3 +1,18 @@
 .loading {
   display:none
 }
+#meal-details{
+  display: none;
+}
+#products-section{
+  display: none;
+}
+#foodlog-section{
+  display: none;
+}
+#log-meal-modal{
+  display: none;
+}
+#serving-model{
+  display: none;
+}
